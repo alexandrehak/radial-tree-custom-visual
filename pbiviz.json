@@ -1,0 +1,20 @@
+{
+  "visual": {
+    "name": "radialTree",
+    "displayName": "RadialTree",
+    "guid": "radialTree6DDAF4D8EA91438EBE25E2F0E39416CB",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "A Radial Tree custom visual",
+    "supportUrl": "None yet",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "2.6.0",
+  "author": { "name": "Alexandre Hak", "email": "ahak@expertime.com" },
+  "assets": { "icon": "assets/icon.png" },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
